@@ -16,6 +16,13 @@ section {
     padding: 100px 0;
 }
 
+.theme-switch {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    cursor: pointer;
+}
+
 h1 {
     font-size: 2.6rem;
 }
