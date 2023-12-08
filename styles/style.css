@@ -93,3 +93,24 @@ a {
     color: black;
     font-weight: bold;
 }
+
+footer {
+    padding: 50px 0;
+    text-align: center;
+    background-color: #FDF5F7;
+}
+
+.contacts {
+    margin: 20px 0;
+}
+
+.contacts a {
+    display: block;
+    font-weight: normal;
+    font-size: 1.4rem;
+}
+
+.social-media i {
+    font-size: 60px;
+    color: black;
+}
