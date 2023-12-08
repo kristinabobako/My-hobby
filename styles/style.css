@@ -4,6 +4,17 @@
     box-sizing: border-box;
 }
 
+.wrapper {
+    max-width: 1640px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 1656px) {
+    .wrapper {
+        padding: 0 40px;
+    }
+}
+
 html {
     font-size: 25px;
 }
